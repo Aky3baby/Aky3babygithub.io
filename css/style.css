@@ -15,7 +15,7 @@ body{
 #header{
   width: 100%;
   height: 100vh;
-  background-image:url(../assets/hero_1.webp);
+  background-image:url(../assets/2image.png);
   background-size: cover;
   background-position: center;
 }
@@ -64,7 +64,7 @@ body{
   margin-top: 20px;
  }
  .header-text h1 span{
-  color: #ff004f;
+  color: #31292c;
  }
  /* ...........about...... */
  #about{
@@ -194,7 +194,7 @@ services{
 .layer{
   width: 100%;
   height: 40%;
-  background:linear-gradient(rgba(0,0,0,6),#4ec9be);
+  background:linear-gradient(rgba(0,0,0,6),#c94e5e);
   border-radius: 10px;
   position: absolute;
   left: 0;
@@ -253,7 +253,7 @@ form input, form textarea{
   width: 100%;
   border: 0;
   outline: none;
-  background: #ec6d6d;
+  background: #d33939;
   padding: 15px;
   margin: 15px;
   color: #fff;
